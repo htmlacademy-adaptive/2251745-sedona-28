@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Ярослав Керимов](https://up.htmlacademy.ru/adaptive/28/user/2251745).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Кислый](https://htmlacademy.ru/profile/smart-grizzly).
 
 ---
 
