@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Ярослав Керимов](https://up.htmlacademy.ru/adaptive/28/user/2251745).
-* Наставник: `Неизвестно`.
+* Наставник: [Татьяна Симоненко](https://up.htmlacademy.ru/profession/frontender/16/adaptive/28/tutors) .
 
 ---
 
